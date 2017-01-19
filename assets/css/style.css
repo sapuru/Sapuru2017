@@ -68,7 +68,7 @@ body{
 /* #####  text  ##### */
 
 h1,h2,h3,h4,h5,h6{
-	color:#000;
+	color:#490A3D;
 	font-family: 'Arima Madurai', cursive;
 }
 
@@ -76,7 +76,7 @@ a:hover:after {
     width: 50%;
 }
 a:hover, a:focus {
-    color: #000;
+    color: #FE4365;
     text-decoration: none;
 }
 
@@ -110,7 +110,7 @@ p{
 }
 
 .green-text{
-	color:#7beec7;
+	color:#8A9B0F;
 }
 
 .gray-text{
@@ -122,12 +122,12 @@ p{
 }
 
 .yellow{
-	color: #ffeedb !important;
+	color: #F8CA00 !important;
 }
 
 .bolder {
     font-weight: 900;
-    color:#ffeedb;
+    color:#BD1550;
 }
 
 .uppercase{
@@ -135,7 +135,7 @@ p{
 }
 
 ul.social-icons li a:hover{
-	color:#7beec7;
+	color:#BD1550;
 }
 
 
@@ -400,7 +400,7 @@ a{
 
 .module-subtitle {
     text-transform: none !important;
-    color: #000;
+    color: #490A3D;
     font-family: "Muli", "Times New Roman", sans-serif;
     text-align: center;
     font-size: 20px;
@@ -465,7 +465,7 @@ a{
 .section-title h2{
 	text-transform: uppercase;
 	letter-spacing: 10px;
-	color:#000;
+	color:#490A3D;
 	font-size: 25px;
 	font-weight: 400;
 }
@@ -473,7 +473,7 @@ a{
 .section-title-parralax h2{
 		text-transform: uppercase;
 		letter-spacing: 10px;
-		color: #000;
+		color: #490A3D;
 		font-size: 40px;
 		font-weight: 700;
 		margin-top: -145px;
@@ -836,7 +836,7 @@ ul.tags li a:hover{
     top: 0;
     height: 100%;
     width: 100%;
-    background: rgba(0, 0, 0, 0.96);
+    background: rgba(73,10,61, 0.96);
     z-index: 2;
     text-align: center;
     padding: 50px 0;
@@ -885,7 +885,7 @@ ul.tags li a:hover{
 }
 
 .box-primary-nav .box-label {
-    color: #e8e0b0;
+    color: #FE4365;
     text-transform: uppercase;
     font-weight: 700;
     font-size: 17px;
@@ -968,7 +968,7 @@ b i:last-child {
 .box-intro h1{
 		font-size: 40px;
 	  margin-top: 35px;
-	  color: #333;
+	  color: #490A3D;
 	  letter-spacing: 40px;
 		font-weight: 700;
 }
@@ -978,7 +978,7 @@ b i:last-child {
 		font-size: 14px;
 		letter-spacing: 10px;
 		text-transform: uppercase;
-		color: #000;
+		color: #BD1550;
 		line-height: 4;
 		font-weight: 700;
 }
