@@ -454,7 +454,7 @@ a{
     text-align: center;
     font-weight: 400 !important;
     letter-spacing: 5px;
-    color: #ffeedb;
+    color: #fed7c6;
     font-size: 25px;
 }
 
@@ -962,7 +962,7 @@ b{
 }
 
 b i:last-child {
-    color: #ffeedb !important;
+    color: #fed7c6 !important;
 }
 
 .box-intro h1{
@@ -1204,7 +1204,7 @@ b i:last-child {
 /* #####  Footer  ##### */
 
 footer.main-footer{
-		background-color: #000;
+		background-color: #3c3c3c;
 		z-index: 0;
 }
 
@@ -1400,7 +1400,7 @@ footer a:hover {
 
 .facts {
 		padding: 100px 0 50px 0;
-		background-color: #ffeedb;
+		background-color: #fed7c6;
 		border-top: 15px double #ffffff
 }
 
@@ -1459,7 +1459,7 @@ footer a:hover {
 -------------------------------- */
 .features {
 	padding: 100px 0 100px 0;
-	background-color: #ffeedb;
+	background-color: #fed7c6;
 	border-top: 15px double #fff;
 }
 
@@ -1656,7 +1656,7 @@ footer a:hover {
 	display: inline-block;
 	background-color: #000;
 	padding: 5px;
-	color:#ffeedb;
+	color:#fed7c6;
 	margin-top: 5px;
 	-webkit-transform:translateY(20px);
 	    -ms-transform:translateY(20px);
@@ -1693,7 +1693,7 @@ footer a:hover {
 
 
 .process-numbers {
-		color: #ffeedb;
+		color: #fed7c6;
 		font-weight: 700;
 		font-size: 150px;
 		text-transform: uppercase;
@@ -1894,7 +1894,7 @@ footer a:hover {
 
 -------------------------------- */
  #clients{
-	 background-color: #ffeedb;
+	 background-color: #a4bce2;
 	 padding: 0 0 50px;
 	 border-bottom: 15px double #fff;
  }
@@ -2284,7 +2284,7 @@ ul.services-list li{
 	  bottom: -22px;
 	  left: -22px;
 	  z-index: -1;
-	  color: #ffeedb;
+	  color: #fed7c6;
 	  font-weight: bold;
 	  font-size: 90px;
 }
@@ -2316,7 +2316,7 @@ ul.services-list li{
 
 .srv_pricing {
 		padding: 0 0 100px;
-		background: #ffeedb;
+		background: #fed7c6;
 		border-bottom: 15px double #fff;
 }
 
