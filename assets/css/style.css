@@ -1390,6 +1390,11 @@ footer a:hover {
 	bottom:-230px !important;
 
 }
+.about {
+	padding: 100px 0 100px 0;
+	border-top: 15px double #fff;
+	background-color:#fed7c6;
+}
 
 
 /* --------------------------------
@@ -1459,7 +1464,7 @@ footer a:hover {
 -------------------------------- */
 .features {
 	padding: 100px 0 100px 0;
-	background-color: #fed7c6;
+	background-color: #fff;
 	border-top: 15px double #fff;
 }
 
@@ -1504,7 +1509,7 @@ footer a:hover {
 .services h2{
 		text-transform: uppercase;
 	  letter-spacing: 5px;
-	  color: #000;
+	  color: #fff;
 	  font-size: 40px;
 	  font-weight: 700;
 	  margin-top: -145px;
@@ -1520,13 +1525,13 @@ footer a:hover {
     font-weight: 700;
     font-size: 15px;
     line-height: 2;
-    color: #000;
+    color: #fff;
 }
 
 .services i {
     display: block;
     font-size: 50px;
-    color: #000;
+    color: #fff;
 }
 
 /* --------------------------------
