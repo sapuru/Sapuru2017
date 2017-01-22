@@ -92,7 +92,7 @@ p{
 
 .lead{
 	color: #000;
-	font-size: 20px;
+	font-size: 32px;
 	line-height: 2.5em;
 }
 
@@ -1480,9 +1480,14 @@ footer a:hover {
     display: block;
 }
 
+.features .feature-item .item-head img{
+		width:70px;
+}
+
 .features .feature-item .item-head i {
     font-size: 50px;
 		color:#000;
+
 }
 
 .features .feature-item h6 {
@@ -1526,13 +1531,15 @@ footer a:hover {
     font-weight: 700;
     font-size: 15px;
     line-height: 2;
-    color: #fff;
+    color: #a4bce2;
 }
-
+.services p {
+	color: #ddd;
+}
 .services i {
     display: block;
     font-size: 50px;
-    color: #fff;
+    color: #ff8087;
 }
 
 /* --------------------------------
@@ -1905,10 +1912,34 @@ footer a:hover {
 	 border-bottom: 15px double #fff;
  }
 
+ #clients h4 {
+	 color: #fed7c6;
+	 font-size: 30px;
+ }
+
  .svgcolor-light, .svgcolor-dark {
     position: relative;
     top: -2px;
     z-index: 3;
+}
+
+#clients p {
+	padding-top: 5%;
+	color: #ffffff;
+	font-size: 20px;
+	line-height: 2.5em;
+}
+
+#clients a {
+	color:#fafafa;
+}
+
+.white {
+ color: #fafafa;
+}
+
+#clients i {
+	color: #fafafa;
 }
 
 #owl-demo{
